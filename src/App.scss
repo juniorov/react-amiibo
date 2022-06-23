@@ -1,0 +1,22 @@
+.card {
+  .card-image {
+    img {
+      max-width: 200px;
+    }
+  }
+
+  .card-content {
+    .card-title {
+      font-size: 18px;
+    }
+
+    a {
+      font-size: 14px;
+    }
+  }
+}
+
+.waves-block {
+  display: flex;
+  justify-content: center;
+}
